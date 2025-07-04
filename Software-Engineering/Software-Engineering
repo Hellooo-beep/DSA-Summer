@@ -1,0 +1,8 @@
+Software Development Life Cycle (SDLC)
+Planning**: Identify need to manage daily tasks  
+Requirements**: User can add, delete, and mark tasks done  
+Design**: Simple UI with text input and checkbox  
+Implementation**: Use Java or Python  
+Testing**: Try adding blank tasks, long tasks, etc.  
+Deployment**: Share on GitHub  
+Maintenance**: Add notifications, sorting, priority feature later
