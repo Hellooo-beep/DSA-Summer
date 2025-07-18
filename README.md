@@ -4,4 +4,5 @@ All my Java and DSA practice from summer 2025
 - `Arrays/`: Java solutions for basic array problems
 - `Networking/`: Notes on OSI model and internet fundamentals
 - `Software-Engineering/`: SDLC and software process learning
+- Stacks-and-Queues/ – Java code and practice for stacks and queues
 
