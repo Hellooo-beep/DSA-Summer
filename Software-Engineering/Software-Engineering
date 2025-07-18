@@ -6,3 +6,15 @@ Implementation**: Use Java or Python
 Testing**: Try adding blank tasks, long tasks, etc.  
 Deployment**: Share on GitHub  
 Maintenance**: Add notifications, sorting, priority feature later
+
+
+ Agile vs Waterfall
+
+| Aspect            | Agile                                | Waterfall                         |
+|-------------------|------------------------------------|----------------------------------|
+| Approach          | Iterative and incremental           | Linear and sequential             |
+| Flexibility       | Highly flexible to changes          | Rigid; changes costly             |
+| Delivery          | Frequent deliveries in sprints      | One final delivery                |
+| Customer Feedback | Continuous customer involvement     | Customer feedback at the end      |
+| Documentation     | Less formal, lightweight            | Detailed and comprehensive       |
+| Best For          | Projects with evolving requirements | Projects with well-defined scope |
